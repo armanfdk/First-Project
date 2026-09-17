@@ -7,7 +7,7 @@ The interface is designed around reusable content sections and cards, with round
 
 ## Features
 
-- Responsive-style clinic landing page layout
+- Modern-style clinic landing page layout
 - Header navigation with search and utility icons
 - Multi-level hover dropdown navigation
 - Clinic contact information and online booking CTA
