@@ -86,8 +86,6 @@ The project demonstrates several common front-end patterns: CSS hover states for
 ├── index.html
 ├── css/
 │   └── style.css
-├── js/
-│   └── script.js
 ├── images/
 │   └── ...
 ├── screenshots/
@@ -107,14 +105,12 @@ The project demonstrates several common front-end patterns: CSS hover states for
 
 ## Running the Project
 
-If the project is built with plain HTML, CSS, and JavaScript, clone the repository and open `index.html` in a browser. For development, a local static server such as the VS Code Live Server extension can be used to automatically refresh the page after changes.
+If the project is built with plain HTML, CSS, clone the repository and open `index.html` in a browser. For development, a local static server such as the VS Code Live Server extension can be used to automatically refresh the page after changes.
 
 ## Technologies
 
 - HTML5
 - CSS3
-- JavaScript
-
 ## Status
 
 Front-end dental clinic website design / UI implementation.
